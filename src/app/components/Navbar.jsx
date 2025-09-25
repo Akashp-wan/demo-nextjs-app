@@ -12,6 +12,9 @@ export default function Navbar() {
       <Link href="/aboutus" style={{ color: 'white', textDecoration: 'none' }}>
         About Us
       </Link>
+      <Link href="/readmore" style={{ color: 'white', textDecoration: 'none' }}>
+        Read more
+      </Link>
     </nav>
   );
 }
